@@ -88,3 +88,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# ide
+.vscode/
+
+# pipenv
+Pipfile.lock
