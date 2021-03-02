@@ -3,8 +3,8 @@
 from setuptools import setup, find_packages
 
 
-# with open('README.rst') as f:
-#     readme = f.read()
+#with open('README.rst') as f:
+#    readme = f.read()
 
 with open("README.md", "r", encoding="utf-8") as fh:
     readme = fh.read()
@@ -13,7 +13,7 @@ with open('LICENSE') as f:
     license = f.read()
 
 setup(
-    name='py.project',
+    name='py.template',
     version='1.0.0',
     description='a template py.project',
     long_description=readme,

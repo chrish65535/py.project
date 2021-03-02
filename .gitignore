@@ -94,3 +94,6 @@ ENV/
 
 # pipenv
 Pipfile.lock
+
+# twine
+.pypirc
